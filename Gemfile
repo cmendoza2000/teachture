@@ -11,6 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'devise' # authentication 
 gem 'omniauth' # oauth 
+gem 'omniauth-facebook' # omniauth for facebook
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
@@ -26,6 +27,7 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'spring'
   gem 'erb2haml'
+  gem 'better_errors'
 end
 
 group :production do
