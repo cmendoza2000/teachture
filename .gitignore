@@ -19,3 +19,6 @@
 #RVM helpers
 .ruby-gemset
 .ruby-version
+
+# Facebook App secret data
+#config/initializers/devise.rb
