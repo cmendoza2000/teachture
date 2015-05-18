@@ -21,4 +21,4 @@
 .ruby-version
 
 # Facebook App secret data
-config/initializers/devise.rb
+/config/initializers/devise.rb
